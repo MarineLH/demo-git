@@ -24,7 +24,7 @@ public class Application {
 		Examen examen = new Controle();
 		examen.setNote(7);
 		examen.setDate(LocalDate.of(2018, 02, 06));
-		examen.setCode("EXAMEN1");
+		examen.setCode("EXAMEN6");
 
 		Projet projet = new Projet();
 		projet.setNote(7, 4);
